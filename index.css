@@ -1,0 +1,36 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.btn {
+  display: inline-block;
+  height: 7rem;
+  width: 7rem;
+  border: 2px solid black;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#white {
+  background: white;
+}
+
+#blue {
+  background: blue;
+}
+
+#grey {
+  background: grey;
+}
+.msg {
+  display: flex;
+  justify-content: center;
+}
